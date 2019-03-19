@@ -1,0 +1,7 @@
+/.theos
+/packages
+/layout/Applications/*.app
+/app/.theos
+/app/packages
+.history
+.env
